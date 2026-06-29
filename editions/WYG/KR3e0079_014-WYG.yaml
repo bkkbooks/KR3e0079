@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3e0079/WYG/v1/juan/14
+seq: 14
+front:
+  text: 欽定四庫全書卷
+  hash: sha256:a534fc66fa07709fff40829ca8fd0873be796b9ab10eff7af791e82cf59707fa
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3e0079_WYG_014-1a, image: WYG0772/WYG0772-0387a.png}
+body:
+  text: 本草綱目卷三目錄百病主治藥上諸風痙風項強癲癎卒厥傷寒熱病瘟疫暑濕火熱諸氣痰飲脾胃吞酸嘈襍噎膈反胃嘔吐噦啘呃逆霍亂泄瀉痢瘧心下痞滿脹滿諸腫黄疸脚氣痿轉筋喘逆欬嗽肺痿肺癰虛損瘵疰邪祟寒熱吐血衂血齒衂血汗欬嗽血諸汗怔忡徤忘驚悸煩惑狂躁不眼多眠消渇遺精夢洩赤白濁癃淋溲數遺尿小便血隂痿強中囊癢大便燥結脱肛痔瘻下血瘀血積聚癥瘕諸蟲腸鳴心腹痛脇痛腰痛疝㿉本草綱目卷三目錄
+  hash: sha256:6ce7e36fa3f29f61f05142e2df96ed2064fa9758f1a3f5ad0ac720c3ae7bb1c9
+metadata:
+  title: 本草綱目
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 23:07:49.667610'
+  juan_title: 卷三目録
+  source:
+    repository: kanripo
+    path: KR3e0079/KR3e0079_014.txt
+hash: sha256:c5e11015624c15315ebb4d88d4071154003c98860a8e86616f208d11af72f330

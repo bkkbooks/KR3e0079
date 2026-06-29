@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3e0079/krp/v1/juan/60
+seq: 60
+front:
+  text: 欽定四庫全書
+  hash: sha256:64d9ff2e7643d8cd3464e7f4c9e75c7d6d85eb6ee80c540d6dcbeeab187b9ddc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3e0079_WYG_060-1a, image: WYG0773/WYG0773-0453a.png}
+body:
+  text: 本草綱目卷二十三目録穀之二稷粟類十八種稷别録黍别録蜀黍食物玉蜀黍綱目粱别録粟别録秫别録穇子救荒稗綱目狼尾草拾遺東廧拾遺菰米綱目蓬草子拾遺芮草子拾遺蒒草子海藥薏苡本經罌子粟開寶米即御阿芙蓉綱目右附方舊二十七新五十三本草綱目卷二十三目録
+  hash: sha256:7fa63d96d22a32c0a1cd9d4b4a6e87817dfccbd1fc86c660381b2cb78e353143
+metadata:
+  title: 本草綱目
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 23:07:49.667610'
+  juan_title: 卷二十三目録
+  source:
+    repository: kanripo
+    path: KR3e0079/KR3e0079_060.txt
+hash: sha256:9b24a8aecc46e2f26da732b9020c1ee066d8e944e3b3a548c45b3c084d2add0a

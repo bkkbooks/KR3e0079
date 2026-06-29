@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3e0079/WYG/v1/juan/111
+seq: 111
+front:
+  text: 欽定四庫全書
+  hash: sha256:64d9ff2e7643d8cd3464e7f4c9e75c7d6d85eb6ee80c540d6dcbeeab187b9ddc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3e0079_WYG_111-1a, image: WYG0774/WYG0774-0359c.png}
+body:
+  text: 本草綱目巻四十入目錄禽之二原禽類二十三種附一種鷄本經雉别錄鸐雉食療雞即山鷩雉拾遺雞即錦鶡雞拾遺鷴圖經鷓鴣唐本竹鷄拾遺附杉鷄英鷄拾遺秧鷄食物鶉嘉祐鷃拾遺鷸拾遺鴿嘉祐突厥雀拾遺雀别錄蒿雀拾遺巧婦鳥拾遺鷯即鷦燕别錄石燕日華伏翼本經蝠即蝙䴎鼠本經生即飛寒號蟲開寳脂即五靈右附方舊八十二新二百三十七本草綱目巻四十八目録
+  hash: sha256:22f16c2ff095b30eef4c7b80e437f9282ee100fcd8ad207cd37387053f01c907
+metadata:
+  title: 本草綱目
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 23:07:49.667610'
+  juan_title: 卷四十八目錄
+  source:
+    repository: kanripo
+    path: KR3e0079/KR3e0079_111.txt
+hash: sha256:84de7b28346fad906b57f0aa33bc8821672b055e5f898f74f3a94f4c5338015a

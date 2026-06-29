@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3e0079/WYG/v1/juan/9
+seq: 9
+front:
+  text: 欽定四庫全書
+  hash: sha256:64d9ff2e7643d8cd3464e7f4c9e75c7d6d85eb6ee80c540d6dcbeeab187b9ddc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3e0079_WYG_009-1a, image: WYG0772/WYG0772-0308a.png}
+body:
+  text: 本草綱目卷一目録序例歴代諸家本草引據古今醫家書目引據古今經史百家書目采集諸家本草藥品總數神農本經名例陶氏别録合藥分劑法則采藥六氣嵗物七方十劑氣味陰陽五味宜忌標本陰陽升降浮沉四時用藥例五運六滛用藥式五臓六腑用藥氣味補瀉五臟五味補瀉臟腑虚實標本用藥式引經報使本草綱目卷一目錄
+  hash: sha256:e33fea0d86259e876253a37b004c36401acf4c10879a2be774dd33aad1ebcba1
+metadata:
+  title: 本草綱目
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 23:07:49.667610'
+  juan_title: 卷一目録
+  source:
+    repository: kanripo
+    path: KR3e0079/KR3e0079_009.txt
+hash: sha256:5d90e0207f219cb3e97806d3de6ebd8fc945f58445055a38aa002ba27c583ced

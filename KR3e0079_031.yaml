@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3e0079/krp/v1/juan/31
+seq: 31
+front:
+  text: 欽定四庫全書
+  hash: sha256:64d9ff2e7643d8cd3464e7f4c9e75c7d6d85eb6ee80c540d6dcbeeab187b9ddc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3e0079_WYG_031-1a, image: WYG0772/WYG0772-0677a.png}
+body:
+  text: 本草綱目卷十目錄金石之四石類下三十九種陽起石本經慈石本經𤣥石别録代赭石本經禹餘粮本經太一餘粮本經石中黃子唐本空青本經曾青本經緑青本經扁青本經白青本經青綠膚碧石青附石膽本經礬即膽礜石本經特生礜石别錄握雪礜石唐本砒石開寳土黃綱目金星石嘉祐附金石婆娑石開寳礞石嘉祐花乳石嘉祐白羊石圖經金牙石别録金剛石綱目附石砮越砥石别録刀石即磨薑石唐本麥飯石圖經水中白石拾遺河沙拾遺杓上砂綱目石燕唐本石蟹開寳石蛇圖經石蠶開寳石鼈綱目蛇黃唐本霹靂碪拾遺雷墨綱目右附方舊二十五新九十五本草綱目卷十目錄
+  hash: sha256:9bd1f3b9849a70b129808d1e089578705c5b0142ab451707ef5b906f977afcb9
+metadata:
+  title: 本草綱目
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 23:07:49.667610'
+  juan_title: 卷十目録
+  source:
+    repository: kanripo
+    path: KR3e0079/KR3e0079_031.txt
+hash: sha256:3edc570c40e7cc38f92a0c8e6069869c1e11a1a6e2ce17f59f8fe0b7da430f7d

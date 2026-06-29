@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3e0079/WYG/v1/juan/78
+seq: 78
+front:
+  text: 欽定四庫全書
+  hash: sha256:64d9ff2e7643d8cd3464e7f4c9e75c7d6d85eb6ee80c540d6dcbeeab187b9ddc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3e0079_WYG_078-1a, image: WYG0773/WYG0773-0669a.png}
+body:
+  text: 本草綱目卷三十二目録果之四味類十三種内附四種秦椒本經蜀椒本經崖椒圖經蔓椒本經地椒嘉祐胡椒唐本畢澄茄開寳附山胡椒呉茱茰本經食茱茰唐本子即辣鹽麩子開寳醎咸平樹酸角草附醋林子圖經茗唐本即茶臯蘆拾遺右附方舊五十四新九十六本草綱目卷三十二目録
+  hash: sha256:44f68d364b66bcd6c666a096ad04bfb71d94cc7860f2428493a2eda1924cb292
+metadata:
+  title: 本草綱目
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 23:07:49.667610'
+  juan_title: 卷三十二目録
+  source:
+    repository: kanripo
+    path: KR3e0079/KR3e0079_078.txt
+hash: sha256:1d4f2c74284056104aef07d17df3349601afbbf6fb949c9278cf373f47c5c872

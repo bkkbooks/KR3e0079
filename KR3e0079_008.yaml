@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3e0079/krp/v1/juan/8
+seq: 8
+front:
+  text: 欽定四庫全書
+  hash: sha256:64d9ff2e7643d8cd3464e7f4c9e75c7d6d85eb6ee80c540d6dcbeeab187b9ddc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3e0079_WYG_008-1a, image: WYG0772/WYG0772-0275a.png}
+body:
+  text: 本草綱目圖卷下之下明李時珍撰禽部一水禽類禽部二原禽類禽部三林禽類禽部四山禽類獸部一畜類獸部二獸類獸部三鼠類獸部四寓類本草綱目圖卷下之下
+  hash: sha256:438ce6b3a18d982387c55579add26d2b050e72dd07a424182ed7c5c459076bd7
+metadata:
+  title: 本草綱目
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 23:07:49.667610'
+  juan_title: 圖卷下之下
+  source:
+    repository: kanripo
+    path: KR3e0079/KR3e0079_008.txt
+hash: sha256:1e63500b0d17b64a02be24caca9760c76031728c34819416c9c6ec985ee92738

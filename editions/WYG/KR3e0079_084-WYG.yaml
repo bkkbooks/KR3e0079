@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3e0079/WYG/v1/juan/84
+seq: 84
+front:
+  text: 欽定四庫全書
+  hash: sha256:64d9ff2e7643d8cd3464e7f4c9e75c7d6d85eb6ee80c540d6dcbeeab187b9ddc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3e0079_WYG_084-1a, image: WYG0774/WYG0774-0039a.png}
+body:
+  text: 本草綱目卷三十五目錄木之二喬木類五十二種内附四種蘗木本經蘗即黄檀桓拾遺小蘗唐本黄櫨嘉祐厚朴本經勒浮爛羅附杜仲本經椿樗唐本漆本經梓本經楸拾遺桐本經梧桐綱目罌子桐拾遺附郢桐海桐開寶附雞桐楝本經槐本經檀拾遺莢蒾唐本秦皮本經合歡本經皂莢本經附鬼皂角肥皂莢綱目無患子開寶欒華本經無食子唐本子即沒食訶黎勒唐本子即訶婆羅得開寶櫸别錄柳本經檉柳開寶水楊唐本白楊唐本枎栘拾遺松楊拾遺榆本經榔榆拾遺蕪荑本經蘇方木唐本烏木綱目樺木開寶綟木拾遺櫚木拾遺櫚即花椶櫚嘉祐橉木拾遺柯樹拾遺烏桕木唐本巴豆本經大風子補遺海紅豆海藥相思子綱目豬腰子綱目石𤓰綱目右附方舊一百三十五新三百二十二本草綱目卷三十五目録
+  hash: sha256:0fb81a4111576fe99699cea9f645696f06cc7110b40b645ce193b343d9e649ee
+metadata:
+  title: 本草綱目
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 23:07:49.667610'
+  juan_title: 卷三十五目録
+  source:
+    repository: kanripo
+    path: KR3e0079/KR3e0079_084.txt
+hash: sha256:3698ec5228ce1573cd83f3c5daab8a69d1530c73b0853ddcbaf032b47fea2ad6

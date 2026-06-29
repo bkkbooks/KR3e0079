@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3e0079/krp/v1/juan/113
+seq: 113
+front:
+  text: 欽定四庫全書
+  hash: sha256:64d9ff2e7643d8cd3464e7f4c9e75c7d6d85eb6ee80c540d6dcbeeab187b9ddc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3e0079_WYG_113-1a, image: WYG0774/WYG0774-0388a.png}
+body:
+  text: 本草綱目卷四十九目録禽之三林禽類一十七種斑鳩嘉祐青䳡拾遺侯即黄褐鳲鳩拾遺穀即布桑鳸食物嘴即蠟伯勞嘉祐鸜鵒唐本百舌拾遺練鵲嘉祐鸎食物啄木鳥嘉祐慈烏嘉祐烏鴉嘉祐鵲别録山鵲食物鶻嘲嘉祐杜鵑拾遺鸚䳇食物鳯秦吉了鳥附右附方舊五新九禽之四山禽類一十一種附二種鳯凰拾遺孔雀别録駝鳥拾遺鷹本經鵰綱目鶚綱目鷹即魚鴟别録鴟鵂拾遺鴞拾遺鴆别録姑獲鳥拾遺治鳥綱目足木客獨附鬼車鳥拾遺諸鳥有毒拾遺右附方舊四新九本草綱目卷四十九目録
+  hash: sha256:9539787d74c863db2c1846c9198eb591eb51956e178c6c45cfca9e3e5f5a99c7
+metadata:
+  title: 本草綱目
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 23:07:49.667610'
+  juan_title: 卷四十九目録
+  source:
+    repository: kanripo
+    path: KR3e0079/KR3e0079_113.txt
+hash: sha256:67f37078d2d79248a4664c2b3f3854233fef21fabd9f1c28edf58ff2a7b5d982

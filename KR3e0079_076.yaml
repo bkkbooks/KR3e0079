@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3e0079/krp/v1/juan/76
+seq: 76
+front:
+  text: 欽定四庫全書
+  hash: sha256:64d9ff2e7643d8cd3464e7f4c9e75c7d6d85eb6ee80c540d6dcbeeab187b9ddc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3e0079_WYG_076-1a, image: WYG0773/WYG0773-0650a.png}
+body:
+  text: 本草綱目卷三十一目録果之三夷果類三十一種内附四種荔枝開寳龍眼别録龍荔綱目橄欖開寳木威子拾遺菴摩勒唐本毗梨勒唐本没離梨拾遺五斂子綱目桃即陽五子實綱目榧實别録海松子開寳㯽榔别録大腹子開寳椰子開寳無漏子拾遺棗即波斯桄榔子開寳䔋木麪海藥波羅蜜綱目無花果食物仙文光果天果附阿勃勒拾遺沙棠果綱目棎子拾遺麂目拾遺都桷子拾遺都念子拾遺都咸子拾遺摩厨子拾遺慶齊墩果徳果附韶子拾遺馬㯽榔㑹編枳椇唐本右附方舊二十一新四十一本草綱目巻三十一目録
+  hash: sha256:08542be6481c1b79e65398b9cd573e8cabd2a9abce954986d604012bd719a618
+metadata:
+  title: 本草綱目
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 23:07:49.667610'
+  juan_title: 卷三十一目録
+  source:
+    repository: kanripo
+    path: KR3e0079/KR3e0079_076.txt
+hash: sha256:57d10ec007e38f329ad6300666a55f4430e1f7eba9212f7dc07fed8ad64646ac

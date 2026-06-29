@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3e0079/WYG/v1/juan/33
+seq: 33
+front:
+  text: 欽定四庫全書
+  hash: sha256:64d9ff2e7643d8cd3464e7f4c9e75c7d6d85eb6ee80c540d6dcbeeab187b9ddc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3e0079_WYG_033-1a, image: WYG0772/WYG0772-0704a.png}
+body:
+  text: 本草綱目卷十一目録金石之五鹵石類二十種附錄二十七種食鹽别録戎鹽本經光明鹽唐本鹵鹹本經凝水石本經即寒水石𤣥精石開寳緑鹽唐本鹽藥拾遺附懸石朴消本經𤣥明粉藥性消石本經即焰消硇砂唐本蓬砂日華藥特蓬殺石附石硫黄本經石硫赤别錄石硫青别録硫黄香附礬石本經緑礬日華黄礬綱目湯瓶内鹼綱目右附方舊一百零二新二百四十九附録諸石本草綱目卷十一目錄
+  hash: sha256:131266c81cc6b6688ad27bc428468c5f4236b79f3e800784ba2b0d648dd2ce89
+metadata:
+  title: 本草綱目
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 23:07:49.667610'
+  juan_title: 卷十一目録
+  source:
+    repository: kanripo
+    path: KR3e0079/KR3e0079_033.txt
+hash: sha256:87d19c6caff90b12b311a71e595d660fe084120f19f80ab08cfa3842686cb0ac

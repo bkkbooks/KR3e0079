@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3e0079/WYG/v1/juan/52
+seq: 52
+front:
+  text: 欽定四庫全書
+  hash: sha256:64d9ff2e7643d8cd3464e7f4c9e75c7d6d85eb6ee80c540d6dcbeeab187b9ddc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3e0079_WYG_052-1a, image: WYG0773/WYG0773-0381a.png}
+body:
+  text: 本草綱目卷十九目錄草之八水草類二十二種内附四種澤瀉本經酸惡附蔛草唐本羊蹄本經酸模日華蛇牛舌麕舌舌附龍舌草綱目菖蒲本經白菖别録香蒲本經蒲黄本經菰别錄苦草綱目水萍本經蘋吳普萍蓬草拾遺莕菜唐本草蓴别錄水藻綱目海藻本經海藴拾遺海帶嘉祐昆布别錄越王餘算拾遺石帆日華水松綱目右附方舊四十八新七十一本草綱目卷十九目錄
+  hash: sha256:d07eab87796c69ea55fa0e4c8bf506ccccf6a3769e061c2be8918f7f8584621f
+metadata:
+  title: 本草綱目
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 23:07:49.667610'
+  juan_title: 卷十九目録
+  source:
+    repository: kanripo
+    path: KR3e0079/KR3e0079_052.txt
+hash: sha256:cb3b1f08d7bcd7be44f64e0e8d6896b95ff4d86b6d8728b35a7b574e11503b7a

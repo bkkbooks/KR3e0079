@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3e0079/krp/v1/juan/74
+seq: 74
+front:
+  text: 欽定四庫全書
+  hash: sha256:64d9ff2e7643d8cd3464e7f4c9e75c7d6d85eb6ee80c540d6dcbeeab187b9ddc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3e0079_WYG_074-1a, image: WYG0773/WYG0773-0617a.png}
+body:
+  text: 本草綱目卷三十目録果之二山果類三十四種梨别録鹿梨圖經棠梨綱目海紅綱目木𤓰别録樝子食療榠樝圖經榅桲開寶山樝唐本查即山菴羅果開寶柰别録林檎開寶柹别録椑柹開寶君遷子拾遺柹牛奶安石榴别録橘本經柑開寶橙開寶柚日華枸櫞圖經縁即香金橘綱目枇杷别録楊梅開寶櫻桃别録山櫻桃别録銀杏日用果即白胡桃開寶榛子開寶阿月渾子拾遺櫧子拾遺鉤栗拾遺橡實唐本子即櫟槲實唐本若即槲右附方舊五十二新一百七十四本草綱目卷三十目録
+  hash: sha256:983287f787f239be2fe0d27db1f2d880261023767a94aed408fa2f01566009e5
+metadata:
+  title: 本草綱目
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 23:07:49.667610'
+  juan_title: 卷三十目録
+  source:
+    repository: kanripo
+    path: KR3e0079/KR3e0079_074.txt
+hash: sha256:16ad44c44096e85caad0135011399d15e638cca30b8da5ba37ff82f5ecea5f12

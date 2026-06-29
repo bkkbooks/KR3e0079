@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3e0079/krp/v1/juan/46
+seq: 46
+front:
+  text: 欽定四庫全書
+  hash: sha256:64d9ff2e7643d8cd3464e7f4c9e75c7d6d85eb6ee80c540d6dcbeeab187b9ddc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3e0079_WYG_046-1a, image: WYG0773/WYG0773-0250a.png}
+body:
+  text: 本草綱目卷十七草之六毒草類四十七種大黄本經商陸本經狼毒本經防葵本經狼牙本經䕡茹本經大㦸本經澤漆本經甘遂本經續隨子開寳莨菪本經子即天仙雲實本經蓖麻唐本附博落迴常山蜀漆本經紅吐莖山土山附藜蘆本經果根山慈石附參馬腸根木藜蘆拾遺附子本經已上卷十七上天雄本經側子别錄漏籃子綱目烏頭本經白附子别錄虎掌天南星本經由跋本經蒟蒻開寳附菩薩草半夏本經蚤休本經鬼臼本經射干本經鳶尾本經玉簪綱目鳳仙綱目坐拏草圖經附押不蘆曼陀羅花綱目羊躑躅本經不山躑躅羊嚙草附芫花本經蕘花本經醉魚草綱目莽草本經茵蕷本經石龍芮本經菜即胡椒毛茛拾遺附每薑牛扁本經附風建草蕁麻圖經格注草唐本海芋綱目附透山根鉤吻本經已上卷十七下右附方舊一百三十四新四百九十五本草綱目巻十七目錄
+  hash: sha256:b1cc145c0f132a9398727c25dc2e81345b66f1a70ddf2432d53a7f86b8bde423
+metadata:
+  title: 本草綱目
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 23:07:49.667610'
+  juan_title: 卷十七目録
+  source:
+    repository: kanripo
+    path: KR3e0079/KR3e0079_046.txt
+hash: sha256:419a701f1d2d62d0635d7b8fe8377b78112d4b1f84606fc02fde13b8bd38941d

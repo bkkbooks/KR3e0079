@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3e0079/krp/v1/juan/42
+seq: 42
+front:
+  text: 欽定四庫全書
+  hash: sha256:64d9ff2e7643d8cd3464e7f4c9e75c7d6d85eb6ee80c540d6dcbeeab187b9ddc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3e0079_WYG_042-1a, image: WYG0773/WYG0773-0143a.png}
+body:
+  text: 本草綱目卷十五目録草之四隰草類上五十三種菊本經野菊拾遺菴䕡本經附對廬蓍本經艾别録附夏臺千年艾綱目茵陳蒿本經青蒿本經黄花蒿綱目白蒿本經角蒿唐本䕲蒿拾遺馬先蒿本經隂地厥圗經牡蒿别録九牛草圗經茺蔚本經草即益母鏨草拾遺薇蓹本經附無心草夏枯草本經劉寄奴草唐本曲節草圖經霜即六月麗春草圗經旋覆花本經青葙子本經靈陶朱術鴈來紅天草思蓂子附雞冠花嘉祐紅藍花開寳畨紅花綱目燕脂綱目大薊小薊别録續㫁本經苦芺别録漏蘆本經飛廉本經苧蔴别録􅔾蔴唐本麻即白大青别録小青圗經胡盧巴嘉祐蠡實本經必即馬藺子似勒附惡實别録蒡即牛葈耳本經耳即蒼天名精本經即蝨地菘鶴豨薟唐本箬綱目蘆别録甘蕉别錄蘘荷别録麻黄本經附雲花草木賊嘉祐附問荆石龍芻本經草即龍須龍常草别錄草即㯶心燈心草開寳右附方舊一百四十四新二百八十六本草綱目卷十五目錄
+  hash: sha256:0db820d3501244af46015dd542eca5a44811a0ec9db5f11a891752956b7c7b74
+metadata:
+  title: 本草綱目
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 23:07:49.667610'
+  juan_title: 卷十五目録
+  source:
+    repository: kanripo
+    path: KR3e0079/KR3e0079_042.txt
+hash: sha256:b57b6184acd612be1c3d569e70a8b9472dce2e00232e799e098b517ea2f626a4

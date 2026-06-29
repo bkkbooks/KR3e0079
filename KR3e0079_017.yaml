@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3e0079/krp/v1/juan/17
+seq: 17
+front:
+  text: 欽定四庫全書
+  hash: sha256:64d9ff2e7643d8cd3464e7f4c9e75c7d6d85eb6ee80c540d6dcbeeab187b9ddc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3e0079_WYG_017-1a, image: WYG0772/WYG0772-0476a.png}
+body:
+  text: 本草綱目卷四目録百病主治藥下痛風頭痛眩運眼目耳面鼻唇口舌咽喉音聲牙齒鬚髪胡臭丹毒風瘙疹疿癧瘍癜風癭瘤疣痣瘰九漏癰疽諸瘡上下外傷諸瘡漆瘡凍瘡湯火皴裂炙瘡金鏃竹木傷跌仆折傷腸出杖瘡五絶縊死凍死溺死驚死壓死諸蟲傷蛇虺蠶蛓蜈蚣蚯蚓蜂蠆蝸牛蜘蛛射工蠼螋沙虱蛭除螻蛄蟲蟻辟諸蠅蚰蜒諸獸傷虎狼驢馬熊羆猪猫咬犬猘鼠咬人諸毒金石蟲魚草木禽獸果菜蠱毒諸物哽咽婦人經水帶下崩中漏下月水不止五十行經胎前子煩胎啼産難死胎生胎産後下乳斷産回乳隂病隂寒隂脱隂吹不隂腫痛門隂痒隂蝕産門合産生合小兒初生諸病沐浴無皮解毒目閉便閉血眼不啼腎縮不乳解吐乳𩕄䧟𩕄腫流涎項耎夜啼龜背臍腫語遲臍風行遲驚癎諸疳痘瘡本草綱目卷四目錄
+  hash: sha256:03bab779c5546548f5b2dbc26649e685dcda6fe9ec6ad40343f4db6e22db6569
+metadata:
+  title: 本草綱目
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 23:07:49.667610'
+  juan_title: 卷四目録
+  source:
+    repository: kanripo
+    path: KR3e0079/KR3e0079_017.txt
+hash: sha256:a21e49c7c82875b4165a35792648f717e9a83b3c1ec85fff6dff43ad4f6b068a

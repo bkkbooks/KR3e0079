@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3e0079/WYG/v1/juan/64
+seq: 64
+front:
+  text: 欽定四庫全書
+  hash: sha256:64d9ff2e7643d8cd3464e7f4c9e75c7d6d85eb6ee80c540d6dcbeeab187b9ddc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3e0079_WYG_064-1a, image: WYG0773/WYG0773-0482a.png}
+body:
+  text: 本草綱目卷二十五目録穀之四造釀類二十九種附藥粥五十三種樂酒七十種大豆豉别録豆黄食療豆腐日用陳廩米别録飯拾遺青精乾石飯圗經粥拾遺附諸藥粥麨拾遺米餻綱目糭綱目寒具綱目蒸餅綱目女麴唐本黄蒸唐本麴嘉祐神麴藥性紅麴丹溪補遺糵米别録芽即麥飴餹别録醤别録榆仁醤食療蕪荑醤食療醋别録酒别録附諸藥酒燒酒綱目葡萄酒綱目糟綱目米粃食物舂杵頭細糠别録右附方舊八十新一百本草綱目卷二十五目録
+  hash: sha256:0b4f700a83e85e6675e9c09612855b1a079068382708a1b7c6b6926858a757cd
+metadata:
+  title: 本草綱目
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 23:07:49.667610'
+  juan_title: 卷二十五目錄
+  source:
+    repository: kanripo
+    path: KR3e0079/KR3e0079_064.txt
+hash: sha256:af5bd3ab15b1936bf526e505aaca6518b8304c15fa8365b57963bedb2776c7b8

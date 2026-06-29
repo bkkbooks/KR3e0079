@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3e0079/WYG/v1/juan/62
+seq: 62
+front:
+  text: 欽定四庫全書
+  hash: sha256:64d9ff2e7643d8cd3464e7f4c9e75c7d6d85eb6ee80c540d6dcbeeab187b9ddc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3e0079_WYG_062-1a, image: WYG0773/WYG0773-0467c.png}
+body:
+  text: 本草綱目卷二十四目録穀之三菽豆類十四種大豆本經大豆黄卷本經黄大豆食鑑赤小豆本經腐婢本經緑豆開寳白豆嘉祐穭豆拾遺豌豆拾遺蠶豆食物豇豆綱目藊豆别録刀豆綱目黎豆拾遺豆即貍右附方舊五十一新一百本草綱目卷二十四目録
+  hash: sha256:4862fed832edf08341a13a7e7154b9acd5ee01c4a964a68b25a9433796561720
+metadata:
+  title: 本草綱目
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 23:07:49.667610'
+  juan_title: 卷二十四目録
+  source:
+    repository: kanripo
+    path: KR3e0079/KR3e0079_062.txt
+hash: sha256:0eac1fd185eadf66e11b87a13a7829c93aa119985a32fd53e02d0e42d7192ec8

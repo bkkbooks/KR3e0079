@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3e0079/krp/v1/juan/4
+seq: 4
+front:
+  text: 欽定四庫全書
+  hash: sha256:64d9ff2e7643d8cd3464e7f4c9e75c7d6d85eb6ee80c540d6dcbeeab187b9ddc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3e0079_WYG_004-1a, image: WYG0772/WYG0772-0143a.png}
+body:
+  text: 本草綱目圖卷中之中明李時珍撰草部十一有名未用穀部一麻麥稻類穀部二稷粟類穀部三菽豆類菜部一葷辛類菜部二柔滑類菜部三蓏菜類菜部四水菜類本草綱目圖卷中之中
+  hash: sha256:b062cd81c2dda4ac95b1ed7d94ce8f672114d2ff389ac2e5912ac27132f8f361
+metadata:
+  title: 本草綱目
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 23:07:49.667610'
+  juan_title: 圖卷中之中
+  source:
+    repository: kanripo
+    path: KR3e0079/KR3e0079_004.txt
+hash: sha256:3cadd67b2cea5f0f03a4c752c2a57d8d738281f4c036a0183b99493e1e442b3a

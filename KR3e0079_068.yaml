@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3e0079/krp/v1/juan/68
+seq: 68
+front:
+  text: 欽定四庫全書
+  hash: sha256:64d9ff2e7643d8cd3464e7f4c9e75c7d6d85eb6ee80c540d6dcbeeab187b9ddc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3e0079_WYG_068-1a, image: WYG0773/WYG0773-0548a.png}
+body:
+  text: 本草綱目卷二十七目錄菜之二柔滑類四十一種内附五種菠薐嘉祐根即赤蕹菜嘉祐菾菜嘉祐蓬即莙東風菜開寳薺别錄菥蓂本經薺即大蘩縷别錄雞腸别錄苜蓿别錄莧本經馬齒莧蜀本苦菜本經蕒即苦白苣嘉祐菜即生萵苣食療水苦蕒圖經翻白草綱目仙人杖草拾遺蒲公英唐本丁即地黄𤓰菜食物生𤓰菜圖經落葵别錄菜即藤蕺菜别錄草即魚腥蕨拾遺水蕨綱目薇拾遺翹揺拾遺菜即巢鹿藿本經豆即野緑灰藋嘉祐藜綱目秦狄藜唐本醍醐菜證類娘茅膏菜雞侯菜孟菜優殿附芋别録附野芋土芋拾遺卵即土薯蕷本經藥即山零餘子拾遺甘藷綱目百合本經山丹日華華菜即紅草石蠶拾遺露子即甘竹筍蜀本酸筍綱目右附方舊三十四新一百一十本草綱目卷二十七目録
+  hash: sha256:a4e80d588a042a3a6e5e8e7e3f6528231e3dc454b48b9c7074a2a9b5a7351841
+metadata:
+  title: 本草綱目
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 23:07:49.667610'
+  juan_title: 卷二十七目錄
+  source:
+    repository: kanripo
+    path: KR3e0079/KR3e0079_068.txt
+hash: sha256:3a6f69991ed66869aece42a2bc25ba2602f49cf68868b789d891fe3d20bc82e6

@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3e0079/WYG/v1/juan/5
+seq: 5
+front:
+  text: 欽定四庫全書
+  hash: sha256:64d9ff2e7643d8cd3464e7f4c9e75c7d6d85eb6ee80c540d6dcbeeab187b9ddc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3e0079_WYG_005-1a, image: WYG0772/WYG0772-0175a.png}
+body:
+  text: 本草綱目圖卷中之下明李時珍撰菜部五芝栭類果部一五果類果部二山果類果部三夷果類果部四味類果部五蓏類果部六水果類木部一香木類本草綱目圖卷中之下
+  hash: sha256:9d3c228ff1916766dded2c114cfc405abbafea613eebd0dcd5ff9fd2d8281099
+metadata:
+  title: 本草綱目
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 23:07:49.667610'
+  juan_title: 圖卷中之下
+  source:
+    repository: kanripo
+    path: KR3e0079/KR3e0079_005.txt
+hash: sha256:a593210c96619c075087bd574586817f7ed61aa2538ff4f34cd48f8983e84260

@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3e0079/WYG/v1/juan/23
+seq: 23
+front:
+  text: 欽定四庫全書
+  hash: sha256:64d9ff2e7643d8cd3464e7f4c9e75c7d6d85eb6ee80c540d6dcbeeab187b9ddc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3e0079_WYG_023-1a, image: WYG0772/WYG0772-0572c.png}
+body:
+  text: 本草綱目卷六目録火部李時珍曰水火所以養民而民賴以生者也本草醫方皆知辨水而不知辨火誠缺文哉火者南方之行其文横則為三卦直則為火字炎上之象也其氣行于天藏于地而用于人太古燧人氏上觀下察鑽木取火教民熟食使无腹疾周官司烜氏以燧取明火于日鑑取明水于月以供祭祀司爟氏掌火之政令四時變國火以救時疾曲禮云聖王用水火金木飲食必時則古先聖王之于火政天人之間用心亦切矣而後世慢之何哉今撰火之切于日用灸焫者凡一十一種為火部云本草拾遺一種唐陳藏器本草綱目一十一種明李時珍附註元朱震亨火凡一十一種陽火隂火綱目燧火綱目桑柴火綱目炭火綱目蘆火竹火綱目艾火綱目珠陽燧火附神鍼火綱目火鍼綱目燈火綱目燈花拾遺燭燼綱目右附方新一十三本草綱目卷六目錄
+  hash: sha256:e15f198f8a165e8642b9de13a13c78f35f3317f16b2c438649be4a4e1fd761f4
+metadata:
+  title: 本草綱目
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 23:07:49.667610'
+  juan_title: 卷六目録
+  source:
+    repository: kanripo
+    path: KR3e0079/KR3e0079_023.txt
+hash: sha256:b3979076137215433ba2aeaae895f23403d6bb630297b503c5fef6365557433e

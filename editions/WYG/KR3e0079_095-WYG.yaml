@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3e0079/WYG/v1/juan/95
+seq: 95
+front:
+  text: 欽定四庫全書
+  hash: sha256:64d9ff2e7643d8cd3464e7f4c9e75c7d6d85eb6ee80c540d6dcbeeab187b9ddc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3e0079_WYG_095-1a, image: WYG0774/WYG0774-0198a.png}
+body:
+  text: 本草綱目卷四十目録蟲之二卵生類下二十二種青蚨拾遺蛺蝶綱目蜻蛉别録蝏即蜻樗雞本經子即紅娘棗貓綱目斑蝥本經芫青别録葛上亭長别録地膽本經蜘蛛别録草蜘蛛拾遺壁錢拾遺螲蟷拾遺蛛即土蜘􅙴開寳水蛭本經蟻綱目附白蟻青腰蟲拾遺蛆綱目蠅綱目狗蠅綱目附壁蝨牛蟲綱目人蝨右附方舊二十新八十一本草綱目卷四十目録
+  hash: sha256:3c7169694800171a8f50429a9af0948025b4d403cc9ad057f9ff3f74872e28b7
+metadata:
+  title: 本草綱目
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 23:07:49.667610'
+  juan_title: 卷四十目録
+  source:
+    repository: kanripo
+    path: KR3e0079/KR3e0079_095.txt
+hash: sha256:b38e3f4dff598f77b291f25407323731e1c232fd22a39c7db2c2b6e2ad54d2a4

@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3e0079/WYG/v1/juan/97
+seq: 97
+front:
+  text: 欽定四庫全書
+  hash: sha256:64d9ff2e7643d8cd3464e7f4c9e75c7d6d85eb6ee80c540d6dcbeeab187b9ddc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3e0079_WYG_097-1a, image: WYG0774/WYG0774-0215a.png}
+body:
+  text: 本草綱目卷四十一目錄蟲之三化生類三十二種附十一種蠐螬本經乳蟲綱目木蠧蟲拾遺桑蠧蟲别錄栁蠧蟲綱目桃蠧蟲日華桂蠧蟲綱目柘蠧蟲拾遺棗蠧蟲綱目竹蠧蟲綱目蘆蠧蟲拾遺蒼耳蠧蟲綱目青蒿蠧蟲綱目皂莢蠧蟲綱目茶蛀蟲綱目蚱蟬本經蟬花證類蜣蜋本經蜉蝣天社蟲附天牛綱目附飛生蟲螻蛄本經螢火本經衣魚本經䑕婦本經附丹戩䗪蟲本經蜚蠊本經行夜别錄竈馬綱目附促織䘀螽拾遺蟲吉丁蟲金龜子腆頭叩頭蟲媚蝶附木蝱本經蜚蟲本經蚋扁前蚊子子附竹蟲綱目右附方舊二十四新一百零四本草綱目卷四十一目録
+  hash: sha256:15ca10fd6fa1542d7eae9889e1d9c58985a4fbd415a683ed20150939087d2eb0
+metadata:
+  title: 本草綱目
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 23:07:49.667610'
+  juan_title: 卷四十一目錄
+  source:
+    repository: kanripo
+    path: KR3e0079/KR3e0079_097.txt
+hash: sha256:6190f7afaaae0d91cc6f472e3e285c472f3e1cd588b71c5878f1404d79d868f0

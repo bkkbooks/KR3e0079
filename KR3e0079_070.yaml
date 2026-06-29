@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3e0079/krp/v1/juan/70
+seq: 70
+front:
+  text: 欽定四庫全書
+  hash: sha256:64d9ff2e7643d8cd3464e7f4c9e75c7d6d85eb6ee80c540d6dcbeeab187b9ddc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3e0079_WYG_070-1a, image: WYG0773/WYG0773-0574a.png}
+body:
+  text: 本草綱目卷二十八目錄菜之三蓏菜類十一種内附一種茄開寳苦茄拾遺壺盧日華苦瓠本經敗瓢綱目冬𤓰本經南𤓰綱目越𤓰開寳𤓰即梢胡𤓰嘉祐𤓰即黄絲𤓰綱目附天羅勒苦𤓰救荒右附方舊二十五新一百零八菜之四水菜類六種紫菜食療石蓴拾遺石花菜食鑑鹿角菜食性龍鬚菜綱目睡菜綱目菜之五芝栭類十五種内附四種芝本經木耳本經杉菌圖經皁角蕈綱目香蕈日用葛花菜綱目天花蕈日用蘑菰蕈綱目雞㙡綱目舵菜綱目土菌拾遺地芩鬼葢附鬼筆竹蓐食療雚菌本經附蜀格地耳别録石耳日用右附方舊七新二十六本草綱目卷二十八目録
+  hash: sha256:34591f22a4da9f27000e7503f26b930d32f9fca5a674b628959d00e4c8a55d77
+metadata:
+  title: 本草綱目
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 23:07:49.667610'
+  juan_title: 卷二十八目録
+  source:
+    repository: kanripo
+    path: KR3e0079/KR3e0079_070.txt
+hash: sha256:aac7794b2d6264303d22693e7d804a1585e12763ecb881f60da32990e8e6b455

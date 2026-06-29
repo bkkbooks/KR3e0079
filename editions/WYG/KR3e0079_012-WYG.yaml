@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3e0079/WYG/v1/juan/12
+seq: 12
+front:
+  text: 欽定四庫全書
+  hash: sha256:64d9ff2e7643d8cd3464e7f4c9e75c7d6d85eb6ee80c540d6dcbeeab187b9ddc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3e0079_WYG_012-1a, image: WYG0772/WYG0772-0365a.png}
+body:
+  text: 本草綱目卷二目録序例下藥名同異相須相使相畏相惡諸藥相反諸藥服藥食忌姙娠禁忌飲食禁忌李東垣隨證用藥凡例陳藏器諸虚用藥凡例張子和汗吐下三法病有八要六失六不治藥對歳物藥品神農本草經目録宋本草舊目録本草綱目卷二目錄
+  hash: sha256:e0eb9c79aac55ff6fd0aa4ed29f8a10982fdb5dc24a17fa086802a33cfd15b5f
+metadata:
+  title: 本草綱目
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 23:07:49.667610'
+  juan_title: 卷二目録
+  source:
+    repository: kanripo
+    path: KR3e0079/KR3e0079_012.txt
+hash: sha256:08f6fb39ea99e38e004b5bedabfb8042111bba46db67e96b990d69b1c2e15139

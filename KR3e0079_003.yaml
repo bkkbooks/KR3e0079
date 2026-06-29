@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3e0079/krp/v1/juan/3
+seq: 3
+front:
+  text: 欽定四庫全書
+  hash: sha256:64d9ff2e7643d8cd3464e7f4c9e75c7d6d85eb6ee80c540d6dcbeeab187b9ddc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3e0079_WYG_003-1a, image: WYG0772/WYG0772-0110a.png}
+body:
+  text: 本草綱目圖卷中之上明李時珍撰草部七蔓草類草部八水草類草部九石草類草部十苔類本草綱目圖卷中之上
+  hash: sha256:acf06e53dae249d95471073d04d989af9796ee80cd0ce26bad0ab5a585095990
+metadata:
+  title: 本草綱目
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 23:07:49.667610'
+  juan_title: 圖卷中之上
+  source:
+    repository: kanripo
+    path: KR3e0079/KR3e0079_003.txt
+hash: sha256:46eb0018d3fe093c8a21a7317e8d9248e241c064062a14c06912e0be06dff8d1

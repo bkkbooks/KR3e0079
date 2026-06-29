@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3e0079/krp/v1/juan/89
+seq: 89
+front:
+  text: 欽定四庫全書
+  hash: sha256:64d9ff2e7643d8cd3464e7f4c9e75c7d6d85eb6ee80c540d6dcbeeab187b9ddc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3e0079_WYG_089-1a, image: WYG0774/WYG0774-0133a.png}
+body:
+  text: 本草綱目卷三十七目録木之四寓木類一十二種茯苓本經琥珀别録瑿嘉祐豬苓本經雷丸本經桑上寄生本經松蘿本經楓栁唐本桃寄生綱目栁寄生綱目占斯别録石刺木拾遺右附方舊十五新四十木之五苞木類四種竹本經天竹黄開寶仙人杖嘉祐鬼齒拾遺右附方舊十七新二十木之六雜木類七種附録一十九種淮木本經城東腐木别録東家雞栖木拾遺古厠木拾遺古櫬板拾遺震燒木拾遺河邊木拾遺右附方新一本草綱目卷三十七目録
+  hash: sha256:b8be1c7498bdba612e94c489b3c4695150883dd3f7b926cf4d9893893edaa33b
+metadata:
+  title: 本草綱目
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 23:07:49.667610'
+  juan_title: 卷三十七目録
+  source:
+    repository: kanripo
+    path: KR3e0079/KR3e0079_089.txt
+hash: sha256:028f16402c81661cd0ee70ed87c08596f58cfd8e24c72115ed9a637c1f0678f7

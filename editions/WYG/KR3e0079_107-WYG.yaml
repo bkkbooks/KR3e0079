@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3e0079/WYG/v1/juan/107
+seq: 107
+front:
+  text: 欽定四庫全書
+  hash: sha256:64d9ff2e7643d8cd3464e7f4c9e75c7d6d85eb6ee80c540d6dcbeeab187b9ddc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3e0079_WYG_107-1a, image: WYG0774/WYG0774-0326a.png}
+body:
+  text: 本草綱目卷四十六目録介之二蚌蛤類二十九種附一種牡蠣本經蚌嘉祐馬刀本經􅒕䗯嘉祐蜆嘉祐真珠開寳石決明别録海蛤本經文蛤本經蛤蜊嘉祐粉即蛤蟶嘉祐擔羅拾遺車螯嘉祐魁蛤别録子即瓦壟車渠海藥貝子本經紫貝唐本珂唐本石􅨒綱目脚即龜淡菜嘉祐海蠃拾遺香即甲甲煎拾遺田蠃别録蝸蠃别録蓼蠃拾遺寄居蟲拾遺海月拾遺附海鏡海燕綱目郎君子海藥右附方舊二十二新九十六本草綱目卷四十六目録
+  hash: sha256:a64a863d965e3ad142945c609302787b3025530ce875afefd44d60be736c1b8b
+metadata:
+  title: 本草綱目
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 23:07:49.667610'
+  juan_title: 卷四十六目錄
+  source:
+    repository: kanripo
+    path: KR3e0079/KR3e0079_107.txt
+hash: sha256:dd71af377198523b63764f6bcaaa04e823af3c9beac85d4b195969c658985346

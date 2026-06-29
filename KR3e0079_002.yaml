@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3e0079/krp/v1/juan/2
+seq: 2
+front:
+  text: 欽定四庫全書
+  hash: sha256:64d9ff2e7643d8cd3464e7f4c9e75c7d6d85eb6ee80c540d6dcbeeab187b9ddc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3e0079_WYG_002-1a, image: WYG0772/WYG0772-0080a.png}
+body:
+  text: 本草綱目圖卷上之下明李時珍撰草部五隰草類下草部六毒草類本草綱目圖卷上之下
+  hash: sha256:2bca48b0f87ce5edbcceba2d3aed0fef2c7b4591d7793ef0b285558bc7ad4dcd
+metadata:
+  title: 本草綱目
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 23:07:49.667610'
+  juan_title: 圖卷上之下
+  source:
+    repository: kanripo
+    path: KR3e0079/KR3e0079_002.txt
+hash: sha256:b10d47e6b161767936269496e13a85ecec0253c8857c36b37e5ecdb643834824

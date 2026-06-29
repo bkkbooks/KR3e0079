@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3e0079/WYG/v1/juan/40
+seq: 40
+front:
+  text: 欽定四庫全書
+  hash: sha256:64d9ff2e7643d8cd3464e7f4c9e75c7d6d85eb6ee80c540d6dcbeeab187b9ddc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3e0079_WYG_040-1a, image: WYG0773/WYG0773-0087a.png}
+body:
+  text: 本草綱目卷十四目録草之三芳草類五十六種當歸本經芎藭本經蘼蕪本經蛇牀本經藁本本經附徐黄蜘蛛香綱目白芷香本經芍藥本經牡丹本經附鼠姑木香本經甘松香開寳山柰綱目㢘薑拾遺杜若本經山薑藥性髙良薑别錄即紅豆䓻豆蔲别錄果即草白豆蔲開寳縮砂蔤開寳益智子開寳蓽茇開寳蒟醬唐本肉豆蔲唐本補骨脂開寳即破故紙薑黄唐本鬱金唐本蓬莪荗開寳荆三稜開寳莎根香附子别錄瑞香綱目茉莉綱目附素馨鬱金香開寳茅香開寳白茅香拾遺排草香綱目迷迭香拾遺䔾車香拾遺艾納香開寳兠納香海藥線香綱目藿香嘉祐薰草零陵香别錄蘭草本經澤蘭本經馬蘭日華香薷别錄石香葇開寳爵牀本經赤車使者唐本假蘇荆芥本經薄荷唐本積雪草本經蘇哵錄荏别錄蘇即白水蘇本經蘇即雞薺薴拾遺附石薺薴右附方舊八十一新三百七十一本草綱目卷十四目錄
+  hash: sha256:570c6c88ff906a2cb7d958ad72b87ba6abb4b5419a20c87d9055c39e1754635a
+metadata:
+  title: 本草綱目
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 23:07:49.667610'
+  juan_title: 卷十四目録
+  source:
+    repository: kanripo
+    path: KR3e0079/KR3e0079_040.txt
+hash: sha256:ef7580a8f7b2d3bc19ada9c87564cddc5dcf6b9e9afc8bd2c4a762ad251af67e

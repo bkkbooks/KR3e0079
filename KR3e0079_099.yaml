@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3e0079/krp/v1/juan/99
+seq: 99
+front:
+  text: 欽定四庫全書
+  hash: sha256:64d9ff2e7643d8cd3464e7f4c9e75c7d6d85eb6ee80c540d6dcbeeab187b9ddc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3e0079_WYG_099-1a, image: WYG0774/WYG0774-0234a.png}
+body:
+  text: 本草綱目卷四十二目錄蟲之四濕生類二十三種内附五種外附録七種蟾蜍别錄蝦蟇本經鼃别錄蝌斗拾遺溪狗拾遺山蛤圖經田父圖經蜈蚣本經馬陸本經山蛩蟲拾遺螋蚰蜒蠼附蚯蚓本經蝸牛别錄蛞蝓本經縁桑蠃證類牛即桑溪鬼蟲拾遺彈水虎鬼附沙蝨綱目附沙蟲水黽拾遺豉蟲拾遺砂挼子拾遺蚘蟲拾遺風驢肚内蟲綱目蠱蟲拾遺金蠶綱目附錄諸蟲綱目一種拾遺一種别錄五種唼臘蟲灰藥黄蟲地防梗雞益符蜚厲本草綱目卷四十二目録
+  hash: sha256:43d8af11bb1390d970f42c848f3a5838338ae6776fc0912f18342828f2f267f8
+metadata:
+  title: 本草綱目
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 23:07:49.667610'
+  juan_title: 卷四十二目錄
+  source:
+    repository: kanripo
+    path: KR3e0079/KR3e0079_099.txt
+hash: sha256:a743824e7df802ae573223e191f5a8a91dddee413d2c8ace6d1ecf17b349825b

@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3e0079/krp/v1/juan/54
+seq: 54
+front:
+  text: 欽定四庫全書
+  hash: sha256:64d9ff2e7643d8cd3464e7f4c9e75c7d6d85eb6ee80c540d6dcbeeab187b9ddc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3e0079_WYG_054-1a, image: WYG0773/WYG0773-0399a.png}
+body:
+  text: 本草綱目卷二十目録草之九石草類十九種内附八種石斛本經骨碎補開寳石韋本經金星草嘉祐石長生本經附紅茂草石莧圖經附石垂景天本經佛甲草圖經虎耳草綱目石胡荽四聲螺厴草拾遺草即鏡靣酢奬草唐本葉酸草三附地錦嘉祐瘡即血見愁金小草附離鬲草拾遺仙人草拾遺仙人掌草圖經崖㯶圖經囬雞翁藤半天野蘭附紫背金盤圖經白龍䰅綱目右附方舊十新四十七本草綱目卷二十目録
+  hash: sha256:82ae57e6237e0c02ece38d3bde1b246349a805405171775fac26fc49a1aef1f8
+metadata:
+  title: 本草綱目
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 23:07:49.667610'
+  juan_title: 卷二十目録
+  source:
+    repository: kanripo
+    path: KR3e0079/KR3e0079_054.txt
+hash: sha256:8a5da634f10f6000857be7ff08d5860a747b7ef0eefd4bf61a0843eebdb63093

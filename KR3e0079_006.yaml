@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3e0079/krp/v1/juan/6
+seq: 6
+front:
+  text: 欽定四庫全書
+  hash: sha256:64d9ff2e7643d8cd3464e7f4c9e75c7d6d85eb6ee80c540d6dcbeeab187b9ddc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3e0079_WYG_006-1a, image: WYG0772/WYG0772-0206a.png}
+body:
+  text: 本草綱目圖卷下之上明李時珍撰木部二喬木類木部三灌木類木部四寓木類木部五苞木類蟲部一卵生類上蟲部二卵生類下本草綱目圖卷下之上
+  hash: sha256:e47d3aa85625a99b36d38fbd4b0e080f2791d64058865b4662e5bb1912f62796
+metadata:
+  title: 本草綱目
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 23:07:49.667610'
+  juan_title: 圖卷下之上
+  source:
+    repository: kanripo
+    path: KR3e0079/KR3e0079_006.txt
+hash: sha256:43761277a6fe7b11732e0756fe5a0cd6fafc802d2252922129513ef5a40af3c2

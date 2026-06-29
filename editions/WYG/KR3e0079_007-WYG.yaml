@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3e0079/WYG/v1/juan/7
+seq: 7
+front:
+  text: 欽定四庫全書
+  hash: sha256:64d9ff2e7643d8cd3464e7f4c9e75c7d6d85eb6ee80c540d6dcbeeab187b9ddc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3e0079_WYG_007-1a, image: WYG0772/WYG0772-0240a.png}
+body:
+  text: 本草綱目圖卷下之中明李時珍撰蟲部三化生類蟲部四濕生類鱗部一龍類鱗部二蛇類鱗部三魚類鱗部四無鱗魚類介部一龜鼈類介部二蚌蛤類本草綱目圖卷下之中
+  hash: sha256:b6e252b59b90daa9e5b6e5d232bf26b4c8264208b3e7d4b699aa1489fbfccf35
+metadata:
+  title: 本草綱目
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 23:07:49.667610'
+  juan_title: 圖卷下之中
+  source:
+    repository: kanripo
+    path: KR3e0079/KR3e0079_007.txt
+hash: sha256:54a8bf8a59236d5232224a6d913fbc7af50da55f7f75e07f388b2afd9636dbbf

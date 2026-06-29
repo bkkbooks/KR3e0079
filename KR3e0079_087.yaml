@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3e0079/krp/v1/juan/87
+seq: 87
+front:
+  text: 欽定四庫全書
+  hash: sha256:64d9ff2e7643d8cd3464e7f4c9e75c7d6d85eb6ee80c540d6dcbeeab187b9ddc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3e0079_WYG_087-1a, image: WYG0774/WYG0774-0090a.png}
+body:
+  text: 本草綱目卷三十六目錄木之三灌木類五十種内附一種桑本經柘嘉祐奴柘拾遺楮别錄枳本經枳即枳實殻枸橘綱目梔子本經附木㦸酸棗本經白棘本經㽔核本經山茱茰本經胡頺子拾遺子即盧都金櫻子蜀本郁李本經䑕李本經子即牛李女貞本經冬青綱目枸骨綱目衞矛本經山礬綱目南燭開寳五加本經枸杞本經溲疏本經楊櫨唐本石南本經牡荆别錄蔓荆本經欒荆唐本石荆拾遺紫荆開寳木槿日華扶桑綱目木芙蓉綱目山茶綱目蠟梅綱目伏牛花開寳宻蒙花開寳木綿綱目柞木嘉祐黄楊木綱目不凋木拾遺賣子木唐本木天蓼唐本放杖木拾遺接骨木唐本靈壽木拾遺楤木拾遺木麻拾遺大空唐本右附方舊八十七新二百零七本草綱目卷三十六目録
+  hash: sha256:178f040cf2487d75bd4bd278a7cff68948e6aea5c184ce2ae81218ef844b6bfe
+metadata:
+  title: 本草綱目
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 23:07:49.667610'
+  juan_title: 卷三十六目綠
+  source:
+    repository: kanripo
+    path: KR3e0079/KR3e0079_087.txt
+hash: sha256:d292727b0ada95602be878ee7f514b1b9c49ef6221a9e5aa3bf3683f722871c5

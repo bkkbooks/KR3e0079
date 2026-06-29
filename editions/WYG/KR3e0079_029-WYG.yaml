@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3e0079/WYG/v1/juan/29
+seq: 29
+front:
+  text: 欽定四庫全書
+  hash: sha256:64d9ff2e7643d8cd3464e7f4c9e75c7d6d85eb6ee80c540d6dcbeeab187b9ddc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3e0079_WYG_029-1a, image: WYG0772/WYG0772-0637a.png}
+body:
+  text: 本草綱目卷九目録金石之三石類上三十二種丹砂本經水銀本經水銀粉嘉祐粉即輕粉霜綱目銀朱綱目靈砂證類雄黄本經雌黄本經石膏本經石即寒水石附玉火龍石膏理石本經附白肌石長石本經方解石别録滑石本經不灰木開寳附松石五色石脂本經桃花石唐本爐甘石綱目井泉石嘉祐無名異開寳蜜栗子綱目石鍾乳本經孔公孽本經殷孽本經石石骨石牀花附土殷孽别録石腦别録石髓拾遺石腦油嘉祐附地溲石炭綱目附然石石灰本經石麫綱目浮石日華附暈石石芝綱目右附方舊六十九新三百一十七本草綱目卷九目錄
+  hash: sha256:b42b0b71d6b2dbfb02540887e28a356b9c48604a11286bbb06d7d1339d356f15
+metadata:
+  title: 本草綱目
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 23:07:49.667610'
+  juan_title: 卷九目録
+  source:
+    repository: kanripo
+    path: KR3e0079/KR3e0079_029.txt
+hash: sha256:db22dcf7a4078f25df9af2a06a22a5a52e5aeff597ef46d05d1d38eb1c4e7fa0
