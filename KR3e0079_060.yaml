@@ -6,8 +6,8 @@ front:
   markers:
   - {type: page-break, offset: 0, content: '', id: KR3e0079_WYG_060-1a, image: WYG0773/WYG0773-0453a.png}
 body:
-  text: 本草綱目卷二十三目録穀之二稷粟類十八種稷别録黍别録蜀黍食物玉蜀黍綱目粱别録粟别録秫别録穇子救荒稗綱目狼尾草拾遺東廧拾遺菰米綱目蓬草子拾遺芮草子拾遺蒒草子海藥薏苡本經罌子粟開寶米即御阿芙蓉綱目右附方舊二十七新五十三本草綱目卷二十三目録
-  hash: sha256:7fa63d96d22a32c0a1cd9d4b4a6e87817dfccbd1fc86c660381b2cb78e353143
+  text: 本草綱目卷二十三目録穀之二稷粟類十八種稷别録黍别録蜀黍食物玉蜀黍綱目粱别録粟别録秫别録穇子救荒稗綱目狼尾草拾遺東牆拾遺菰米綱目蓬草子拾遺芮草子拾遺蒒草子海藥薏苡本經罌子粟開寶米即御阿芙蓉綱目右附方舊二十七新五十三本草綱目卷二十三目録
+  hash: sha256:4d62524130b9dbba55d880407aec4ef59816e9f471501060a4cb0fafb5146496
 metadata:
   title: 本草綱目
   edition:
@@ -18,4 +18,4 @@ metadata:
   source:
     repository: kanripo
     path: KR3e0079/KR3e0079_060.txt
-hash: sha256:9b24a8aecc46e2f26da732b9020c1ee066d8e944e3b3a548c45b3c084d2add0a
+hash: sha256:70a2f91e047bb6fbdb9f83d0f6d38d7a8be3a80bb91d754360f5b8a5158e656b

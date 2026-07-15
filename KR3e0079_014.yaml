@@ -6,8 +6,8 @@ front:
   markers:
   - {type: page-break, offset: 0, content: '', id: KR3e0079_WYG_014-1a, image: WYG0772/WYG0772-0387a.png}
 body:
-  text: 本草綱目卷三目錄百病主治藥上諸風痙風項強癲癎卒厥傷寒熱病瘟疫暑濕火熱諸氣痰飲脾胃吞酸嘈襍噎膈反胃嘔吐噦啘呃逆霍亂泄瀉痢瘧心下痞滿脹滿諸腫黄疸脚氣痿轉筋喘逆欬嗽肺痿肺癰虛損瘵疰邪祟寒熱吐血衂血齒衂血汗欬嗽血諸汗怔忡徤忘驚悸煩惑狂躁不眼多眠消渇遺精夢洩赤白濁癃淋溲數遺尿小便血隂痿強中囊癢大便燥結脱肛痔瘻下血瘀血積聚癥瘕諸蟲腸鳴心腹痛脇痛腰痛疝㿉本草綱目卷三目錄
-  hash: sha256:6ce7e36fa3f29f61f05142e2df96ed2064fa9758f1a3f5ad0ac720c3ae7bb1c9
+  text: 本草綱目卷三目録百病主治藥上諸風痙風項強癲癎卒厥傷寒熱病瘟疫暑濕火熱諸氣痰飲脾胃吞酸嘈雜噎膈反胃嘔吐噦啘厄逆霍亂泄瀉痢瘧心下痞滿脹滿諸腫黃疸腳氣痿轉筋喘逆咳嗽肺痿肺癰虛損瘵疰邪祟寒熱吐血衄血齒衄血汗咳嗽血諸汗怔忡健忘驚悸煩惑狂躁不眼多眠消渴遺精夢泄赤白濁癃淋溲數遺尿小便血隂痿強中囊癢大便燥結脫肛痔瘻下血瘀血積聚癥瘕諸蟲腸鳴心腹痛脅痛腰痛疝㿉本草綱目卷三目録
+  hash: sha256:a654842983b0ec889d70b7a79dd0d01b43f96643314193afc3ac234bbe93b5cc
 metadata:
   title: 本草綱目
   edition:
@@ -18,4 +18,4 @@ metadata:
   source:
     repository: kanripo
     path: KR3e0079/KR3e0079_014.txt
-hash: sha256:b15f7304abdf08f0af26c7f4115760b3e3357ecfff178680abe29d844a0bb0e0
+hash: sha256:cf5ee4d3917ff8381f95bfbe0133acbef8c526aeaf051f92f831e19be8ae9f16

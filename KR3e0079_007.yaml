@@ -6,8 +6,8 @@ front:
   markers:
   - {type: page-break, offset: 0, content: '', id: KR3e0079_WYG_007-1a, image: WYG0772/WYG0772-0240a.png}
 body:
-  text: 本草綱目圖卷下之中明李時珍撰蟲部三化生類蟲部四濕生類鱗部一龍類鱗部二蛇類鱗部三魚類鱗部四無鱗魚類介部一龜鼈類介部二蚌蛤類本草綱目圖卷下之中
-  hash: sha256:b6e252b59b90daa9e5b6e5d232bf26b4c8264208b3e7d4b699aa1489fbfccf35
+  text: 本草綱目圖卷下之中明李時珍撰蟲部三化生類蟲部四濕生類鱗部一龍類鱗部二蛇類鱗部三魚類鱗部四無鱗魚類介部一龜鱉類介部二蚌蛤類本草綱目圖卷下之中
+  hash: sha256:c904bec0a5c7f6d013a6d39de765b76b6b7bae1fe2fa2a510c1fa2e505118958
 metadata:
   title: 本草綱目
   edition:
@@ -18,4 +18,4 @@ metadata:
   source:
     repository: kanripo
     path: KR3e0079/KR3e0079_007.txt
-hash: sha256:d83edcab5d02d845bb1b5d16d724b8e54658ee108c671549bfe9f3862bea9119
+hash: sha256:f65be7b1b74153e1c65df3140852889cb44b08fd1a03c3b714fabddf9d89b8c5

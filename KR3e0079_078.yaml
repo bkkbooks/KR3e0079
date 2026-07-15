@@ -6,8 +6,8 @@ front:
   markers:
   - {type: page-break, offset: 0, content: '', id: KR3e0079_WYG_078-1a, image: WYG0773/WYG0773-0669a.png}
 body:
-  text: 本草綱目卷三十二目録果之四味類十三種内附四種秦椒本經蜀椒本經崖椒圖經蔓椒本經地椒嘉祐胡椒唐本畢澄茄開寳附山胡椒呉茱茰本經食茱茰唐本子即辣鹽麩子開寳醎咸平樹酸角草附醋林子圖經茗唐本即茶臯蘆拾遺右附方舊五十四新九十六本草綱目卷三十二目録
-  hash: sha256:44f68d364b66bcd6c666a096ad04bfb71d94cc7860f2428493a2eda1924cb292
+  text: 本草綱目卷三十二目録果之四味類十三種內附四種秦椒本經蜀椒本經崖椒圖經蔓椒本經地椒嘉祐胡椒唐本畢澄茄開寶附山胡椒吳茱茰本經食茱茰唐本子即辣鹽麩子開寶醎咸平樹酸角草附醋林子圖經茗唐本即茶臯蘆拾遺右附方舊五十四新九十六本草綱目卷三十二目録
+  hash: sha256:5a17660265230d4222f051cae79959e11b0a6e312d5a27843478d9382f570cfa
 metadata:
   title: 本草綱目
   edition:
@@ -18,4 +18,4 @@ metadata:
   source:
     repository: kanripo
     path: KR3e0079/KR3e0079_078.txt
-hash: sha256:8e95b87f88017975c141a7b2d93985ad9ddfa9f5ed4aa7c82600d6471a8f140e
+hash: sha256:6bf97079e524f009411c6935ce61d49b5d429cf5150adabb8a46423c4ce5c685

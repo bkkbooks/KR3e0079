@@ -6,8 +6,8 @@ front:
   markers:
   - {type: page-break, offset: 0, content: '', id: KR3e0079_WYG_012-1a, image: WYG0772/WYG0772-0365a.png}
 body:
-  text: 本草綱目卷二目録序例下藥名同異相須相使相畏相惡諸藥相反諸藥服藥食忌姙娠禁忌飲食禁忌李東垣隨證用藥凡例陳藏器諸虚用藥凡例張子和汗吐下三法病有八要六失六不治藥對歳物藥品神農本草經目録宋本草舊目録本草綱目卷二目錄
-  hash: sha256:e0eb9c79aac55ff6fd0aa4ed29f8a10982fdb5dc24a17fa086802a33cfd15b5f
+  text: 本草綱目卷二目録序例下藥名同異相須相使相畏相惡諸藥相反諸藥服藥食忌妊娠禁忌飲食禁忌李東垣隨證用藥凡例陳藏器諸虛用藥凡例張子和汗吐下三法病有八要六失六不治藥對歲物藥品神農本草經目録宋本草舊目録本草綱目卷二目録
+  hash: sha256:9d1dfa796ed9bab89fc0ada073bb1d1c4991659d12f86353d91107b5645a2c71
 metadata:
   title: 本草綱目
   edition:
@@ -18,4 +18,4 @@ metadata:
   source:
     repository: kanripo
     path: KR3e0079/KR3e0079_012.txt
-hash: sha256:57e518c37b2c45457488dbb0284839ee3c37f6e49ddf4bb2a2f174d371b51f3c
+hash: sha256:a198bb0bcccc746d32830a132dc5dd8ae9206f9f71194b7c1a63fa9e2353a54a

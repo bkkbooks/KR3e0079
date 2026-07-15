@@ -6,8 +6,8 @@ front:
   markers:
   - {type: page-break, offset: 0, content: '', id: KR3e0079_WYG_052-1a, image: WYG0773/WYG0773-0381a.png}
 body:
-  text: 本草綱目卷十九目錄草之八水草類二十二種内附四種澤瀉本經酸惡附蔛草唐本羊蹄本經酸模日華蛇牛舌麕舌舌附龍舌草綱目菖蒲本經白菖别録香蒲本經蒲黄本經菰别錄苦草綱目水萍本經蘋吳普萍蓬草拾遺莕菜唐本草蓴别錄水藻綱目海藻本經海藴拾遺海帶嘉祐昆布别錄越王餘算拾遺石帆日華水松綱目右附方舊四十八新七十一本草綱目卷十九目錄
-  hash: sha256:d07eab87796c69ea55fa0e4c8bf506ccccf6a3769e061c2be8918f7f8584621f
+  text: 本草綱目卷十九目録草之八水草類二十二種內附四種澤瀉本經酸惡附蔛草唐本羊蹄本經酸模日華蛇牛舌麕舌舌附龍舌草綱目菖蒲本經白菖别録香蒲本經蒲黃本經菰别録苦草綱目水萍本經蘋吳普萍蓬草拾遺莕菜唐本草蓴别録水藻綱目海藻本經海藴拾遺海帶嘉祐昆布别録越王餘算拾遺石帆日華水松綱目右附方舊四十八新七十一本草綱目卷十九目録
+  hash: sha256:42c33fe446ce306f21cbc2b3f4d11a2b9bfb524e859e3eade38b138036af8fc6
 metadata:
   title: 本草綱目
   edition:
@@ -18,4 +18,4 @@ metadata:
   source:
     repository: kanripo
     path: KR3e0079/KR3e0079_052.txt
-hash: sha256:788fdeb14f60aa3f4c9ac2fba67673920bb124fddc17c918f6af17d9fbe0f53c
+hash: sha256:3df6f7825ad6ddc98d35a31655c88303ba7ed38e937282dffb4a917f8970809c

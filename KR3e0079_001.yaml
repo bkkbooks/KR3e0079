@@ -6,8 +6,8 @@ front:
   markers:
   - {type: page-break, offset: 0, content: '', id: KR3e0079_WYG_001-1a, image: WYG0772/WYG0772-0011c.png}
 body:
-  text: 本草綱目圖卷上之上明李時珍撰從來圖繪絢飾為工未睱析其形似是以博物君子毎多樝梨橘柚之疑兹集詳考互訂擬肖逼真雖遐方異物按圖可索奚第多識其名已也金石部一金類金石部二玉類金石部三石類上金石部四石類下石部一鹵石類本草綱目圖卷上之上欽定四庫全書本草綱目圖卷上之中明李時珍撰草部一山草類上草部二山草類下草部三芳草類草部四隰草類上本草綱目圖卷上之中
-  hash: sha256:03f4ba88e3b0dd772b5350be6c83bda74528f3ef6625255c6c0f76c302d4d7dc
+  text: 本草綱目圖卷上之上明李時珍撰從來圖繪絢飾為工未睱析其形似是以博物君子每多樝梨橘柚之疑兹集詳考互訂擬肖逼真雖遐方異物按圖可索奚第多識其名已也金石部一金類金石部二玉類金石部三石類上金石部四石類下石部一鹵石類本草綱目圖卷上之上欽定四庫全書本草綱目圖卷上之中明李時珍撰草部一山草類上草部二山草類下草部三芳草類草部四隰草類上本草綱目圖卷上之中
+  hash: sha256:5a4f9c7712d1c2aa3ae4d071691da03226d3511fc3f5309f40d39ab5844af1e7
   markers:
   - {type: page-break, offset: 110, content: '', id: KR3e0079_WYG_001-46a, image: WYG0772/WYG0772-0034a.png}
 metadata:
@@ -20,4 +20,4 @@ metadata:
   source:
     repository: kanripo
     path: KR3e0079/KR3e0079_001.txt
-hash: sha256:2a4a2960a1a8b973338a686fc6e0276cacf12365222d0544299c95d791fbf4bc
+hash: sha256:b3a6ed8b9f5383c4a7f8642caeb531adcb5fcb45ad469dab98155baf670e340e

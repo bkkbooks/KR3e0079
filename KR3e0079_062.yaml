@@ -6,8 +6,8 @@ front:
   markers:
   - {type: page-break, offset: 0, content: '', id: KR3e0079_WYG_062-1a, image: WYG0773/WYG0773-0467c.png}
 body:
-  text: 本草綱目卷二十四目録穀之三菽豆類十四種大豆本經大豆黄卷本經黄大豆食鑑赤小豆本經腐婢本經緑豆開寳白豆嘉祐穭豆拾遺豌豆拾遺蠶豆食物豇豆綱目藊豆别録刀豆綱目黎豆拾遺豆即貍右附方舊五十一新一百本草綱目卷二十四目録
-  hash: sha256:4862fed832edf08341a13a7e7154b9acd5ee01c4a964a68b25a9433796561720
+  text: 本草綱目卷二十四目録穀之三菽豆類十四種大豆本經大豆黃卷本經黃大豆食鑑赤小豆本經腐婢本經緑豆開寶白豆嘉祐穭豆拾遺豌豆拾遺蠶豆食物豇豆綱目藊豆别録刀豆綱目黎豆拾遺豆即貍右附方舊五十一新一百本草綱目卷二十四目録
+  hash: sha256:7e4b5907ae8575a830758fbeb7a4baabe989df10d799cc25204490576e24a18a
 metadata:
   title: 本草綱目
   edition:
@@ -18,4 +18,4 @@ metadata:
   source:
     repository: kanripo
     path: KR3e0079/KR3e0079_062.txt
-hash: sha256:b51df155f21bb7b4a8730c807c2b0e4682d9bbdfc77766ef7a74462084972889
+hash: sha256:916ef007979d6d920c3fa3a5231598c0037888a36918e32baa2f056824c6a7e6

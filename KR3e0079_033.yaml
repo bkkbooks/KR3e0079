@@ -6,8 +6,8 @@ front:
   markers:
   - {type: page-break, offset: 0, content: '', id: KR3e0079_WYG_033-1a, image: WYG0772/WYG0772-0704a.png}
 body:
-  text: 本草綱目卷十一目録金石之五鹵石類二十種附錄二十七種食鹽别録戎鹽本經光明鹽唐本鹵鹹本經凝水石本經即寒水石𤣥精石開寳緑鹽唐本鹽藥拾遺附懸石朴消本經𤣥明粉藥性消石本經即焰消硇砂唐本蓬砂日華藥特蓬殺石附石硫黄本經石硫赤别錄石硫青别録硫黄香附礬石本經緑礬日華黄礬綱目湯瓶内鹼綱目右附方舊一百零二新二百四十九附録諸石本草綱目卷十一目錄
-  hash: sha256:131266c81cc6b6688ad27bc428468c5f4236b79f3e800784ba2b0d648dd2ce89
+  text: 本草綱目卷十一目録金石之五鹵石類二十種附録二十七種食鹽别録戎鹽本經光明鹽唐本鹵鹹本經凝水石本經即寒水石玄精石開寶緑鹽唐本鹽藥拾遺附懸石朴消本經玄明粉藥性消石本經即焰消硇砂唐本蓬砂日華藥特蓬殺石附石硫黃本經石硫赤别録石硫青别録硫黃香附礬石本經緑礬日華黃礬綱目湯瓶內鹼綱目右附方舊一百零二新二百四十九附録諸石本草綱目卷十一目録
+  hash: sha256:7526687b84a085be7a6f9920e0eed349cca51f83dfae7a0fbfb94fc66190766f
 metadata:
   title: 本草綱目
   edition:
@@ -18,4 +18,4 @@ metadata:
   source:
     repository: kanripo
     path: KR3e0079/KR3e0079_033.txt
-hash: sha256:fcf155dd0b008a2cd42e9ad00b8a04bdcae5b4ba66d29f1fa12748d0802e5aeb
+hash: sha256:11b2a10c50ccc64d2a2329c0ca80b6cf9917bf3a92831aaf5b46d5109b6c5ea4

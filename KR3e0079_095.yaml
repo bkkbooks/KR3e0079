@@ -6,8 +6,8 @@ front:
   markers:
   - {type: page-break, offset: 0, content: '', id: KR3e0079_WYG_095-1a, image: WYG0774/WYG0774-0198a.png}
 body:
-  text: 本草綱目卷四十目録蟲之二卵生類下二十二種青蚨拾遺蛺蝶綱目蜻蛉别録蝏即蜻樗雞本經子即紅娘棗貓綱目斑蝥本經芫青别録葛上亭長别録地膽本經蜘蛛别録草蜘蛛拾遺壁錢拾遺螲蟷拾遺蛛即土蜘􅙴開寳水蛭本經蟻綱目附白蟻青腰蟲拾遺蛆綱目蠅綱目狗蠅綱目附壁蝨牛蟲綱目人蝨右附方舊二十新八十一本草綱目卷四十目録
-  hash: sha256:3c7169694800171a8f50429a9af0948025b4d403cc9ad057f9ff3f74872e28b7
+  text: 本草綱目卷四十目録蟲之二卵生類下二十二種青蚨拾遺蛺蝶綱目蜻蛉别録蝏即蜻樗雞本經子即紅娘棗貓綱目斑蝥本經芫青别録葛上亭長别録地膽本經蜘蛛别録草蜘蛛拾遺壁錢拾遺螲蟷拾遺蛛即土蜘􅙴開寶水蛭本經蟻綱目附白蟻青腰蟲拾遺蛆綱目蠅綱目狗蠅綱目附壁蝨牛蟲綱目人蝨右附方舊二十新八十一本草綱目卷四十目録
+  hash: sha256:3ac064fab4cae53f410f47713776056587b14cfc7df7546ecbf6d8a50f3fcb32
 metadata:
   title: 本草綱目
   edition:
@@ -18,4 +18,4 @@ metadata:
   source:
     repository: kanripo
     path: KR3e0079/KR3e0079_095.txt
-hash: sha256:b650e3682eed3d8661a54189e763cfcc2a23c612c826157ca350d9b72246c967
+hash: sha256:0b6599d37ac69a8a4252359fff448b86ed3520e8ef7ed125ee36585873bdb01f
