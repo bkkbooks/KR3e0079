@@ -2063,6 +2063,7 @@ markers:
   - {type: indent, offset: 6035, content: 　, id: KR3e0079_krp_094-bkkind199}
   - {type: substitution, offset: 6038, original: 痒, replacement: 癢, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17349}}
   - {type: punctuation, offset: 6039, content: (, id: KR3e0079_krp_094-bkkpn723}
+  - {type: 'voice:problem', offset: 6039, length: 3, id: KR3e0079_bkk_094-bkkvprob1, source: parens, bucket: body, code: expected-close, message: 'expected '')'' after ''('' at offset 6039, got ''('' at offset 6042'}
   - {type: 'kr:non-cjk', offset: 6040, content: '[', id: KR3e0079_krp_094-bkkkrnonc6}
   - {type: variant, offset: 6040, length: 5, content: 病丙穩禾疹, WYG: 􅐊􅇙}
   - {type: 'kr:non-cjk', offset: 6041, content: '-', id: KR3e0079_krp_094-bkkkrnonc7}
@@ -7763,4 +7764,4 @@ markers:
 
       ', id: KR3e0079_krp_094-bkkkrnewl845}
   back: []
-hash: sha256:1a5e8121c400658e397d5a750e58c4693a51f7321efdba4d1146139d96f6a397
+hash: sha256:84b7ea2813596d79db466bd1e9e44194aededa2ce6b005591d0bf2ccd6fd38ab

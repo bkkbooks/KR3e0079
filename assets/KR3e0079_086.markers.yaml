@@ -7063,6 +7063,7 @@ markers:
   - {type: substitution, offset: 18748, original: 騐, replacement: 驗, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17258}}
   - {type: punctuation, offset: 18749, content: ), id: KR3e0079_krp_086-bkkpn2523}
   - {type: punctuation, offset: 18753, content: (, id: KR3e0079_krp_086-bkkpn2524}
+  - {type: 'voice:problem', offset: 18753, length: 9, id: KR3e0079_bkk_086-bkkvprob1, source: parens, bucket: body, code: expected-close, message: 'expected '')'' after ''('' at offset 18753, got ''('' at offset 18762'}
   - {type: 'kr:non-cjk', offset: 18760, content: '[', id: KR3e0079_krp_086-bkkkrnonc2}
   - {type: variant, offset: 18760, length: 4, content: 病丙穩禾, WYG: 􅐊}
   - {type: 'kr:non-cjk', offset: 18761, content: '-', id: KR3e0079_krp_086-bkkkrnonc3}
@@ -9486,4 +9487,4 @@ markers:
 
       ', id: KR3e0079_krp_086-bkkkrnewl989}
   back: []
-hash: sha256:9424750b0116fdf88722095103e7dd6060736901e593c6c6cb26f4489ca06cbf
+hash: sha256:f32a8ca8dbcb426c1e8592c5874e10e586564b325a21ec7330df71218754d9af
